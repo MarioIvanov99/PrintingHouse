@@ -1,0 +1,5 @@
+package org.printinghouse.model;
+
+public class Order {
+
+}
